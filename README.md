@@ -32,7 +32,7 @@ La API estará disponible en: `http://localhost:8000`
 - **Swagger UI**: `http://localhost:8000/docs` (Pruebas interactivas)
 - **Redoc**: `http://localhost:8000/redoc`
 - **Manual de Arquitectura**: Consulta [ARCHITECTURE.md](./ARCHITECTURE.md) para detalles técnicos y diagramas.
-- **Como se cumple con la rubrica?**: Consulta [ARCHITECTURE.md](./JUSTIFICACION_RUBRICA.md) para ver la justificacion
+- **Como se cumple con la rubrica?**: Consulta [RUBRICA.md](./JUSTIFICACION_RUBRICA.md) para ver la justificacion
 
 ## 🧪 Pruebas
 He incluido un script de pruebas automatizadas:
