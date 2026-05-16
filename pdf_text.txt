@@ -1,0 +1,187 @@
+Foro
+Actividad Formativa
+Integración de la librería 
+GraphQL en un framework
+Módulo: Arquitectura de 
+Aplicaciones Web
+Unidad 3
+2
+Nota
+Esta actividad se entrega de forma individual o grupal de acuerdo con 
+las instrucciones dadas por el tutor.
+Indicadores de logro
+Construye una aplicación web con la implementación de API GraphQL para consultar 
+información de forma declarativa.
+Introducción a la actividad
+En esta actividad, se deberá identificar, instalar y configurar la librería GraphQL dentro de un 
+framework de desarrollo web seleccionado (SpringBoot, Express.js, Django, entre otros). El 
+objetivo principal es comprender cómo se integra GraphQL en un entorno, reconociendo las 
+dependencias necesarias y los pasos de instalación.
+
+3
+Descripción de la actividad
+1. Seleccionar un framework de desarrollo web (por ejemplo: SpringBoot, Express.js, 
+Django, Laravel, etc.) que permita la integración de GraphQL.
+2. Identifique la librería adecuada para integrar GraphQL en ese entorno (por ejemplo: 
+graphql, apollo-server, graphql-js, graphene, etc.).
+3. Utilice el gestor de paquetes correspondiente (maven, npm, pip, composer, etc.) para 
+instalar la librería GraphQL y sus dependencias.
+4. Grabar un video explicativo donde se muestre el framework, las herramientas utilizadas y 
+el proceso de instalación y configuración de GraphQL.
+5. La duración del video debe estar entre 3 y 5 minutos. En formato mp4 o enlace a 
+plataforma (Y ouTube, Vimeo, con acceso público).
+Participación
+Para completar esta actividad, cada estudiante deberá participar en el foro siguiendo las 
+siguientes acciones:
+1. Subir el video explicativo directamente al foro o compartir el enlace de acceso.
+2. Acompañar el video o enlace con una breve descripción escrita (máximo 100 palabras) 
+que incluya: el framework utilizado y la librería de GraphQL integrada.
+
+4
+3. Revisar y comentar el trabajo de dos compañeros, incluyendo una recomendación o 
+sugerencia basada en su experiencia, en el material de clase o en referencias externas. 
+También, puede comentar sobre el proceso o la configuración realizada.
+4. Cada participación debe tener un máximo de 150 palabras. Use un lenguaje claro, 
+técnico y respetuoso, enfocado en generar un aporte académico constructivo. Evitar 
+comentarios genéricos (“muy bueno”, “me gustó mucho”), sin una base técnica o 
+argumentativa.
+Rúbrica de la actividad
+ Criterio 
+Puntaje
+Sobr esaliente Aceptable No aprobado
+El video muestra con 
+c lar idad todo el 
+proceso: selección del 
+framework , instalac ión 
+de la libr er ía Gr aphQ L y  
+configuración del 
+entorno. Se explican 
+los pasos con buena 
+estructura y lenguaje 
+técni co.
+El v ideo presenta el 
+proceso general de 
+integración de 
+GraphQL, aunque con 
+ex plic ac iones 
+inc ompletas o 
+superficiales. Puede 
+faltar  una par te del 
+flujo (instalac ión, 
+prueba o 
+conf iguración).	
+El v ideo no se entrega, 
+no funciona, está 
+incompleto o no 
+muestr a la integr ac ión 
+de GraphQL de forma 
+c lar a y  v er ific able.
+20 12 0
+Sobr esaliente Aceptable No aprobado
+La desc r ipc ión indic a el 
+framework  usado y  la 
+libr er ía Gr aphQ L. 
+Redac c ión c lar a y  
+coherente.	
+La descripción incluye 
+infor mac ión básic a, 
+pero es incompleta o 
+poc o c lar a (falta el 
+resultado o el nombre 
+de la libr er ía, por  
+No se inc luy e la 
+descripción o esta es 
+ir r elev ante, c onfusa o 
+no guarda relación con 
+el v ideo.
+10 7 0
+Sobr esaliente Aceptable No aprobado
+El c omentar io es 
+respetuoso, técnico y 
+argumentado. Aporta 
+una sugerencia o 
+recomendación útil, 
+basada en los 
+conceptos  de cl a s e o 
+en documentación 
+referente. Promuev e el 
+apor te ac adémic o.	
+El c omentar io es 
+respetuoso, pero poco 
+técnico o poco útil. 
+Puede ser general o 
+c on esc asa r elac ión c on 
+el tr abajo r ev isado.	
+No se r ealiza el 
+comentario, o este es 
+super fic ial, sin 
+argumento técnico o 
+irrelev ante. Puede ser 
+una opinión vaga sin 
+conexión con la 
+ac tiv idad.
+20 12 0
+50
+Indicadores / Calificaciones
+20
+10
+20
+Unidad 3 - Actividad formativa
+VIDEO EXPLICATIVO
+Entrega de un video 3 a 5 
+minutos que muestra la 
+instalación paso a paso de 
+GraphQL.
+DESCRIPCIÓN BREVE
+Descripción de 100 palabras 
+de framework y librería 
+GraphQL.
+REVISAR Y COMENTAR EL 
+TRABAJO DE UN 
+COMPAÑERO
+Recomendación o 
+sugerencia de 150 palabras .
+
+5
+Apreciado estudiante, participa en los foros evaluativos como 
+XIMENA EL ÁGUILA, quien con compromiso y sus ganas de 
+aportar, dice sus comentarios con asertividad.
+Lee detenidamente las siguientes indicaciones antes de realizar tus aportes 
+en el foro:
+¡Conﬁamos en que sigas, paso a paso, en el camino hacia la excelencia académica! 
+¿Das tu palabra de que realizarás esta actividad asumiendo de corazón nuestro
+PACTO DE HONOR?
+1. P or tu seguridad y la de tus compañeros, 
+nunca incluyas datos personales.
+2. R ecuerda que el foro es un espacio sano 
+de discusión y debate, por eso, el respeto 
+es la clave fundamental para el buen 
+desarrollo del ejercicio.
+3. Cuando realices una participación, 
+contarás con 30 minutos para editarla 
+en caso de que lo necesites, de lo 
+contrario se guardará automáticamente.
+4. Ten en cuenta las recomendaciones que 
+hace el tutor a la hora de participar, ya 
+que él indicará si se hará participación 
+grupal o individual y si pueden incluir 
+archivos adjuntos o no.
+5. Antes de hacer tu participación en el 
+foro, revisa las indicaciones de la 
+actividad y criterios de evaluación.
+6. Recuerda que debes hacer tu 
+participación en los tiempos 
+estipulados, ni antes, ni después. 
+Puedes apoyarte de tu calendario 
+académico.
+7. Asegúrate de tener buena conexión a 
+internet, cierra cualquier programa que 
+pueda consumir el ancho de banda y no 
+utilices internet móvil.
+8. El uso de teléfonos inteligentes o 
+tabletas está permitido únicamente 
+para la visualización de tu material. 
+No los uses para la presentación de 
+actividades evaluativas, ni para cargar 
+archivos de entregas grupales.
+
